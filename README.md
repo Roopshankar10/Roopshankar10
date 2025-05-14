@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roop Shankar Voruganti</h1>
-<h3 align="center">"Hi, I'm Roop — Working on Data Science, AI, and everything in between."</h3>
+<h3 align="center">Generative AI Developer passionate about building real-world solutions with LLMs and smart systems.</h3>
 
 - 📫 How to reach me **roopshankar257@gmail.com**
 
